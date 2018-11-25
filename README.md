@@ -1,0 +1,2 @@
+# Paintings
+Data Mining Project
